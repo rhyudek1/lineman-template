@@ -1,0 +1,14 @@
+{
+  "name": "lineman-template",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rhyudek1/lineman-template",
+  "authors": [
+    "rhyudek1 <rhyudek1@gmail.com>"
+  ],
+  "description": "Lineman Template - Niucode.cl",
+  "dependencies": {
+    "jquery": "*",
+    "bootstrap": "~3.0.0",
+    "font-awesome": "~3.2.1"
+  }
+}
